@@ -1,7 +1,7 @@
 # PCBuildingSystem
 
 # 1. Problema:
-A difucldade das pessoas leigas para montagem de computadores e seus componentes eletronicos
+A dificuldade das pessoas leigas para montagem de computadores e seus componentes eletronicos
 
 # 2. Objetivo Geral:
 Criar um Sistema especialista que sugere melhores peças para pc com base nafaixa de preço e finalidade.
