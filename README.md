@@ -4,7 +4,7 @@
 A dificuldade das pessoas leigas para montagem de computadores e seus componentes eletronicos
 
 # 2. Objetivo Geral:
-Criar um Sistema especialista que sugere melhores peças para pc com base nafaixa de preço e finalidade.
+Criar um Sistema especialista que sugere melhores peças para pc com base na faixa de preço e finalidade.
 
 # 3. Diagrama de Casos de Uso:
 
