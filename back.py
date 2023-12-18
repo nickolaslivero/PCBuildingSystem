@@ -41,7 +41,7 @@ def recomendar_notebook(novo_notebook):
     similaridades.sort(reverse=True)
     return similaridades[0][1]
 
-pesos = {'preco_maximo': 7000, 'peso_preco': 0.4, 'peso_finalidade': 0.3, 'peso_marca': 0.3}
+pesos = {'preco_maximo': 10000, 'peso_preco': 0.4, 'peso_finalidade': 0.3, 'peso_marca': 0.3}
 
 if __name__ == '__main__':
     novo_notebook = ([10000, "Casual", "Asus"], None)
